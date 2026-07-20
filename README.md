@@ -3,7 +3,7 @@
 ## 🎯 Problem Statement
 > *"How does digital consumption differ across changing demographic patterns of gender and age among adolescents (13–19 years)? Furthermore, to what extent do daily screen time and subsequent sleep deprivation negatively catalyze the broader adolescent mental health spectrum, specifically regarding stress, anxiety, and depression?"*
 
----<img width="1214" height="566" alt="image" src="https://github.com/user-attachments/assets/bd7716e8-229b-4b60-b4b7-142eb85d6fb6" />
+
 
 
 ## 📚 Literature Review Foundations
@@ -11,13 +11,19 @@
 - **Royal Children’s Hospital:** Evening screen exposure suppresses melatonin, reducing the sleep window and triggering daytime stress/anxiety.
 - **Neurodevelopmental Research:** Prefrontal cortex maturation through age 19 correlates with escalating device dependency in late adolescence.
 
----
+  
+
+------<img width="1214" height="566" alt="image" src="https://github.com/user-attachments/assets/bd7716e8-229b-4b60-b4b7-142eb85d6fb6" />
+
+
 
 ## 🛠️ Data Preprocessing & Cleaning
 1. **Feature Elimination:** Dropped `social_interaction_level` due to high subjectivity and near-zero target correlation ($+0.005$).
 2. **Quality Audit:** Verified 0 null values and 0 duplicate records across 1,200 dataset rows.
 
 ---<img width="1184" height="583" alt="image" src="https://github.com/user-attachments/assets/11be2f9b-4afe-4614-8057-79a11c1ce4f5" />
+
+
 
 
 ## 📊 Key Visual Insights
@@ -35,5 +41,7 @@
 AUTHOR
 
 Tejal Joshi
+
 DATA SCIENTIST
+
 LINKEDIN : https://www.linkedin.com/feed/
